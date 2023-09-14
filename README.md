@@ -1,4 +1,19 @@
-# ATLASlog
+# LEVANTAMENTO DO FLUXO DE IMPORTAÇÃO E EXPORTAÇÃO DE PRODUTO
 
 
-hahbhbhabhbahbhabbabhbahbhab
+
+## PROJETO
+
+## OBJETIVO
+
+## MISSÃO 
+
+## VISÃO 
+
+## VALORES
+
+## EQUIPE
+
+## BACKLOG DAS SPRINTS
+
+## FERRAMENTAS ULTILIZADAS 
