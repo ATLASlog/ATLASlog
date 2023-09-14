@@ -1,20 +1,36 @@
+<p align = "center">
+ 
 # LEVANTAMENTO DO FLUXO DE IMPORTAÇÃO E EXPORTAÇÃO DE PRODUTO
 
+## ÍNDICE
+
+ + PROJETO
+   - Introdução
+   - Objetivo
+  
+ + EMPRESA
+   - Equipe
+   - Backlog das Sprints
+   - Ferramentas Ultilizadas
+   
+
+</p>
 
 
 ## PROJETO
+
 - ### INTRODUÇÃO
 - ### OBJETIVO
- 
 
- ## EMPRESA
-- ### MISSÃO 
-- ### VISÃO
-- ### VALORES
+## EMPRESA
+ 
+ > MISSÃO
+
+ > VISÃO
+
+ > VALORES
 
 ## EQUIPE
-
-
 
 |NOME | FUNÇÃO | LINKEDIN | IDENTIFICAÇÃO |
 |-----|--------|----------|---------------|
@@ -32,5 +48,7 @@
 - ### Sprint 01
 - ### Sprint 02
 - ### Sprint 03
+
+
 
 ## FERRAMENTAS ULTILIZADAS 
