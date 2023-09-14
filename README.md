@@ -3,14 +3,14 @@
 
 
 ## PROJETO
+- ### INTRODUÇÃO
+- ### OBJETIVO
+ 
 
-## OBJETIVO
-
-## MISSÃO 
-
-## VISÃO 
-
-## VALORES
+ ## EMPRESA
+- ### MISSÃO 
+- ### VISÃO
+- ### VALORES
 
 ## EQUIPE
 
@@ -28,6 +28,9 @@
 
 ## BACKLOG DAS SPRINTS
 
-
+- ### Sprint 00
+- ### Sprint 01
+- ### Sprint 02
+- ### Sprint 03
 
 ## FERRAMENTAS ULTILIZADAS 
