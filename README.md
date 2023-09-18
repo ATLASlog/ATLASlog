@@ -1,6 +1,6 @@
 <p align = "center">
  
-# LEVANTAMENTO DO FLUXO DE IMPORTAÇÃO E EXPORTAÇÃO DE PRODUTO
+# LEVANTAMENTO DE DADOS PARA A ANÁLISE DO FLUXO DE IMPORTAÇÃO E EXPORTAÇÃO DE PRODUTO
 
 ## ÍNDICE
 
@@ -16,9 +16,14 @@
 ## PROJETO
 
 - ### INTRODUÇÃO
+   Mapeamento do fluxo de dados do
+  
 - ### OBJETIVO
+   Desenvolvimento de uma interface grafica que permite ao cliente uma análise visual interativa e agil do fluxo de transporte referente ao aeroporto SJK.
 
 ## EMPRESA
+
+[LOGO]
  
  > MISSÃO
 
