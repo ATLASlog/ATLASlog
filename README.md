@@ -3,13 +3,11 @@
 # LEVANTAMENTO DE DADOS PARA A ANÁLISE DO FLUXO DE IMPORTAÇÃO E EXPORTAÇÃO DE PRODUTO
 
 ## ÍNDICE
-
- + PROJETO 
- + EMPRESA
- + EQUIPE
- + BACKLOG DAS SPRINTS
- + FERRAMENTAS ULTILIZADAS
-   
+ * [PROJETO](#projeto)
+ + [EMPRESA](#empresa)
+ + [EQUIPE](#equipe)
+ + [BACKLOG DAS SPRINTS](#backlog-das-sprints)
+ + [FERRAMENTAS ULTILIZADAS](#ferramentas-ultilizadas)
 
 </p>
 
@@ -49,7 +47,6 @@
 - ### Sprint 01
 
 ![Sprint 01](https://github.com/ATLASlog/ATLASlog/assets/111469327/0646876e-bfc5-47c2-8b1f-7a6cf2a27317)
-
 
 - ### Sprint 02
 
