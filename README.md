@@ -35,14 +35,14 @@
 
 |NOME | FUNÇÃO | LINKEDIN | IDENTIFICAÇÃO |
 |-----|--------|----------|---------------|
-| Aline | Product Owner | [Aline]() |
-| André | Desenvolvedor | [André]() |
-| Cauê | Desenvolvedor | [Caue]()|
-| Denise | Desenvolvedor | [Denise]()
-| Josimar | Desenvolvedor | [Josimar]()
-| Kauan | Desenvolvedor | [Kauan]() | img src= "https://avatars.githubusercontent.com/u/111469327?v=4" |
-| Mariana | Desenvolvedor | [Mariana](https://www.linkedin.com/in/marianac%C3%A1ssia/) |
-| Vinícius | Scrum Master | [Vinicius]() |
+| Aline | Product Owner | [Aline]() |<img src= "" width="60px"> |
+| André | Desenvolvedor | [André]() | <img src= "" width="60px"> |
+| Cauê | Desenvolvedor | [Caue]()| | <img src= "" width="60px"> |
+| Denise | Desenvolvedor | [Denise]() | <img src= "" width="60px"> |
+| Josimar | Desenvolvedor | [Josimar]() | <img src= "" width="60px"> |
+| Kauan | Desenvolvedor | [Kauan]() | <img src= "" width="60px"> | 
+| Mariana | Desenvolvedor | [Mariana](https://www.linkedin.com/in/marianac%C3%A1ssia/) |<img src= "" width="60px"> |
+| Vinícius | Scrum Master | [Vinicius]() |<img src= "" width="60px"> |
 
 ## BACKLOG DAS SPRINTS
 
