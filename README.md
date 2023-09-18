@@ -35,14 +35,14 @@
 
 |NOME | FUNÇÃO | LINKEDIN | IDENTIFICAÇÃO |
 |-----|--------|----------|---------------|
-| Aline | Product Owner | [Aline]() |<img src= "" width="60px"> |
-| André | Desenvolvedor | [André]() | <img src= "" width="60px"> |
-| Cauê | Desenvolvedor | [Caue]()| | <img src= "" width="60px"> |
-| Denise | Desenvolvedor | [Denise]() | <img src= "" width="60px"> |
-| Josimar | Desenvolvedor | [Josimar]() | <img src= "" width="60px"> |
-| Kauan | Desenvolvedor | [Kauan]() | <img src= "" width="60px"> | 
-| Mariana | Desenvolvedor | [Mariana](https://www.linkedin.com/in/marianac%C3%A1ssia/) |<img src= "" width="60px"> |
-| Vinícius | Scrum Master | [Vinicius]() |<img src= "" width="60px"> |
+| Aline Cristina de Azevedo Silva | Product Owner | [Aline](https://www.linkedin.com/in/aline-cristina-azevedo-silva-870b22161) |<img src= "" width="60px"> |
+| André Carneiro Ribeiro | Desenvolvedor | [André](https://www.linkedin.com/in/andr%C3%A9-carneiro-ribeiro-073b73259) |<img src= "" width="60px"> |
+| Cauê Santos da Silva | Desenvolvedor | [Caue](https://br.linkedin.com/in/caue-santos-a01228288)| |<img src= "" width="60px"> |
+| Denise da Silva Oliveira | Desenvolvedor | [Denise](https://www.linkedin.com/in/denise-oliveira-32099a287) |<img src= "" width="60px"> |
+| Josimar Pereira dos Santos | Desenvolvedor | [Josimar](https://www.linkedin.com/mwlite/profile/me?trk=p_mwlite_feed_updates-secondary_nav) |<img src= "" width="60px"> |
+| Kauan Araujo Oliveira | Desenvolvedor | [Kauan]() | <img src= "" width="60px"> | 
+| Mariana Cassia Santos Rodrigues de Almeida | Desenvolvedor | [Mariana](https://www.linkedin.com/in/marianac%C3%A1ssia/) |<img src= "" width="60px"> |
+| Vinicius Moreira de Sousa | Scrum Master | [Vinicius](https://www.linkedin.com/in/vinicius-moreira-de-sousa-146359287) |<img src= "" width="60px"> |
 
 ## BACKLOG DAS SPRINTS
 
