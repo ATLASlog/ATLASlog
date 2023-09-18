@@ -13,7 +13,6 @@
 
 </p>
 
-
 ## PROJETO
 
 - ### INTRODUÇÃO
@@ -31,13 +30,14 @@
 
 |NOME | FUNÇÃO | LINKEDIN | IDENTIFICAÇÃO |
 |-----|--------|----------|---------------|
-| Aline | Product Owner | [Mariana Cássia](https://www.linkedin.com/in/marianac%C3%A1ssia/)
-| André | Desenvolvedor | [Mariana Cássia](https://www.linkedin.com/in/marianac%C3%A1ssia/)
-| Cauê | Desenvolvedor | [Mariana Cássia](https://www.linkedin.com/in/marianac%C3%A1ssia/)
-| Denise | Desenvolvedor | [Mariana Cássia](https://www.linkedin.com/in/marianac%C3%A1ssia/)
-| Josimar | Desenvolvedor | [Mariana Cássia](https://www.linkedin.com/in/marianac%C3%A1ssia/)
-| Kauan | Desenvolvedor | [Mariana Cássia](https://www.linkedin.com/in/marianac%C3%A1ssia/)
-| Vinícius | Scrum Master | [Mariana Cássia](https://www.linkedin.com/in/marianac%C3%A1ssia/)
+| Aline | Product Owner | [Aline]() |
+| André | Desenvolvedor | [André]() |
+| Cauê | Desenvolvedor | [Caue]()|
+| Denise | Desenvolvedor | [Denise]()
+| Josimar | Desenvolvedor | [Josimar]()
+| Kauan | Desenvolvedor | [Kauan]() | img src= "https://avatars.githubusercontent.com/u/111469327?v=4" |
+| Mariana | Desenvolvedor | [Mariana](https://www.linkedin.com/in/marianac%C3%A1ssia/) |
+| Vinícius | Scrum Master | [Vinicius]() |
 
 ## BACKLOG DAS SPRINTS
 
