@@ -4,14 +4,11 @@
 
 ## ÍNDICE
 
- + PROJETO
-   - Introdução
-   - Objetivo
-  
+ + PROJETO 
  + EMPRESA
-   - Equipe
-   - Backlog das Sprints
-   - Ferramentas Ultilizadas
+ + EQUIPE
+ + BACKLOG DAS SPRINTS
+ + FERRAMENTAS ULTILIZADAS
    
 
 </p>
