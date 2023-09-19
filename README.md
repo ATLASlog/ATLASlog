@@ -4,30 +4,38 @@
 
 ## ÍNDICE
  * [PROJETO](#projeto)
+   - [Introdução](#introdução)
+   - [Objetivo](#objetivo)
  + [EMPRESA](#empresa)
+   - [Missão](#missão)
+   - [Visão](#visão)
+   - [Valores](#valores)
  + [EQUIPE](#equipe)
  + [BACKLOG DAS SPRINTS](#backlog-das-sprints)
+   - [Sprint 01](#sprint-01)
+   - [Sprint 02](#sprint-02)
+   - [Sprint 03](#sprint-03)
  + [FERRAMENTAS ULTILIZADAS](#ferramentas-ultilizadas)
-
+ + [PRAZOS](#prazos)
 </p>
 
 ## PROJETO
 
-- ### INTRODUÇÃO
+- ### Introdução
    Mapeamento do fluxo de dados do
   
-- ### OBJETIVO
+- ### Objetivo
    Desenvolvimento de uma interface grafica que permite ao cliente uma análise visual interativa e agil do fluxo de transporte referente ao aeroporto SJK.
 
 ## EMPRESA
 
 [LOGO]
  
- > MISSÃO
+ > Missão
 
- > VISÃO
+ > Visão
 
- > VALORES
+ > Valores
 
 ## EQUIPE
 
@@ -57,9 +65,17 @@
 ![Sprint 03](https://github.com/ATLASlog/ATLASlog/assets/111469327/d7ff0af8-d9fa-419f-86d5-31030d2c3636)
 
 
+## PRAZOS
+
+> - [X] Kick-off do Projeto - 04/09/2023
+> - [X] Entrega Sprint 00   - 25/09/2023
+> - [X] Entrega Sprint 01   - 16/10/2023
+> - [X] Entrega Sprint 02   - 06/11/2023
+> - [X] Entrega Sprint 03   - 27/11/2023
+> - [X] Feira de Soluções   - 12/12/2023
+
+
 ## FERRAMENTAS ULTILIZADAS 
-
-
 
 <img src= "https://github.com/ATLASlog/ATLASlog/assets/111469327/a2b2af85-35be-45c2-8aa4-ac50af949e3f" width="40px"> 
 <img src= "https://github.com/ATLASlog/ATLASlog/assets/111469327/8e762ff1-717d-4e80-a7c8-dd6da9a90b6f" width="40px"> 
