@@ -22,7 +22,6 @@ API - 1° Semestre - Logística 2023
  + [FERRAMENTAS ULTILIZADAS](#ferramentas-ultilizadas)
  + [PRAZOS](#prazos)
 
-   
 
 
 ## PROJETO
