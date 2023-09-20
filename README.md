@@ -47,14 +47,14 @@ API - 1° Semestre - Logística 2023
 
 |NOME | FUNÇÃO | LINKEDIN | IDENTIFICAÇÃO |
 |-----|--------|----------|---------------|
-| Aline Cristina de Azevedo Silva | Product Owner | [Aline](https://www.linkedin.com/in/aline-cristina-azevedo-silva-870b22161) |<img src= "" width="60px"> |
-| André Carneiro Ribeiro | Desenvolvedor | [André](https://www.linkedin.com/in/andr%C3%A9-carneiro-ribeiro-073b73259) |<img src= "" width="60px"> |
-| Cauê Santos da Silva | Desenvolvedor | [Caue](https://br.linkedin.com/in/caue-santos-a01228288)| |<img src= "" width="60px"> |
-| Denise da Silva Oliveira | Desenvolvedor | [Denise](https://www.linkedin.com/in/denise-oliveira-32099a287) |<img src= "" width="60px"> |
+| Aline Cristina de Azevedo Silva | Product Owner | [Aline](https://www.linkedin.com/in/aline-cristina-azevedo-silva-870b22161) |<img src= "https://media.licdn.com/dms/image/D4D03AQFFAYT0Zl8MrQ/profile-displayphoto-shrink_800_800/0/1689631460398?e=1700697600&v=beta&t=SdA8pDhc59TWA4Z8FwPXX8XNEC_XnUU6ztCB27wVCgw" width="60px"> |
+| André Carneiro Ribeiro | Desenvolvedor | [André](https://www.linkedin.com/in/andr%C3%A9-carneiro-ribeiro-073b73259) |<img src= "https://media.licdn.com/dms/image/D4D35AQENqKR2VwTVlw/profile-framedphoto-shrink_800_800/0/1686400849101?e=1695844800&v=beta&t=Q4gr32nS-giH8d711MmE9uAQ20veWoortIooUInQ6R4" width="60px"> |
+| Cauê Santos da Silva | Desenvolvedor | [Caue](https://br.linkedin.com/in/caue-santos-a01228288)| |<img src= "https://media.licdn.com/dms/image/D4D03AQGCBF3w-dTFYg/profile-displayphoto-shrink_800_800/0/1695077480764?e=1700697600&v=beta&t=VPyPLnAqgMlrGLIZWlHxpzkSdfhmaoXlDlqC4SDdO7g" width="60px"> |
+| Denise da Silva Oliveira | Desenvolvedor | [Denise](https://www.linkedin.com/in/denise-oliveira-32099a287) |<img src= "https://media.licdn.com/dms/image/D4E03AQFZslt4fSwPWg/profile-displayphoto-shrink_800_800/0/1691794503206?e=1700697600&v=beta&t=RvPnjGG4zrpyMB2UmSHILkgA2VvpL8DSYEccNDAQz_c" width="60px"> |
 | Josimar Pereira dos Santos | Desenvolvedor | [Josimar](https://www.linkedin.com/mwlite/profile/me?trk=p_mwlite_feed_updates-secondary_nav) |<img src= "" width="60px"> |
-| Kauan Araujo Oliveira | Desenvolvedor | [Kauan](https://br.linkedin.com/in/kauan-oliveira-4b54b5291) | <img src= "" width="60px"> | 
-| Mariana Cassia Santos Rodrigues de Almeida | Desenvolvedor | [Mariana](https://www.linkedin.com/in/marianac%C3%A1ssia/) |<img src= "" width="60px"> |
-| Vinicius Moreira de Sousa | Scrum Master | [Vinicius](https://www.linkedin.com/in/vinicius-moreira-de-sousa-146359287) |<img src= "" width="60px"> |
+| Kauan Araujo Oliveira | Desenvolvedor | [Kauan](https://br.linkedin.com/in/kauan-oliveira-4b54b5291) | <img src= "https://media.licdn.com/dms/image/D4D03AQFH7Kuv1DjOnw/profile-displayphoto-shrink_800_800/0/1695078025758?e=1700697600&v=beta&t=AYU0Kqr_9_-j39zVkIOfpqRKlBoOPcw5jNwGtSCZtkU" width="60px"> | 
+| Mariana Cassia Santos Rodrigues de Almeida | Desenvolvedor | [Mariana](https://www.linkedin.com/in/marianac%C3%A1ssia/) |<img src= "https://avatars.githubusercontent.com/u/111469327?v=4" width="60px"> |
+| Vinicius Moreira de Sousa | Scrum Master | [Vinicius](https://www.linkedin.com/in/vinicius-moreira-de-sousa-146359287) |<img src= "https://media.licdn.com/dms/image/D4E03AQHnFFtchFJbSg/profile-displayphoto-shrink_800_800/0/1691760851823?e=1700697600&v=beta&t=3h3eEh45iPttodecYqxVGCu_WWkKFac4qG-6OHGzjKk" width="60px"> |
 
 ## BACKLOG DAS SPRINTS
 
