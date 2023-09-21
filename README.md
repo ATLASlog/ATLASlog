@@ -15,6 +15,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
  + [MICRO CERTIFICAÇÕES](#micro-certificações)
  + [PRAZOS](#prazos)
  + [BACKLOG DAS SPRINTS](#backlog-das-sprints)
+ + [FUNCIONALIDADES E REGISTROS DAS SPRINTS](#funcionalidades-e-registros-das-sprints)
  + [REGRAS DE NEGÓCIO](#regras-de-negócio)
  + [COMPETÊNCIAS DESENVOLVIDAS](#competências-desenvolvidas)
  + [FERRAMENTAS UTILIZADAS](#ferramentas-utilizadas)
@@ -27,6 +28,10 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 
 - ### Objetivo
      Desenvolvimento de uma interface gráfica, permitindo que o cliente possa ter uma análise visual, interativa e ágil do fluxo relacionado à importação e exportação referente ao aeroporto SJK. Tendo em base, os dados retirados do ComexStat (base de dados do governo), e por meio destes criar uma interface que auxilie e melhore a análise de possíveis novos investimentos, realocando  para o aeroporto SJK .
+
+- ### Projeto (API) 
+     Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. 
+     Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o MVP seguido de sua operação (CDIO). 
 
 ## EMPRESA
 
@@ -50,7 +55,7 @@ Valores
 
 |NOME | FUNÇÃO | LINKEDIN | IDENTIFICAÇÃO |
 |-----|--------|----------|---------------|
-| Aline Cristina de Azevedo Silva | Product Owner |<a href="https://www.linkedin.com/in/aline-cristina-azevedo-silva-870b22161" target="blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a> |<img src="https://media.licdn.com/dms/image/D4D03AQFFAYT0Zl8MrQ/profile-displayphoto-shrink_800_800/0/1689631460398?e=1700697600&v=beta&t=SdA8pDhc59TWA4Z8FwPXX8XNEC_XnUU6ztCB27wVCgw" width="60px"> |
+| Aline Cristina de Azevedo Silva | Product Owner |<a href="https://www.linkedin.com/in/aline-cristina-azevedo-silva-870b22161" target="blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> <a href="https://github.com/alineazevedos" target ="blank"> <img src="https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white60px" target="blank" width="90px">|<img src="https://media.licdn.com/dms/image/D4D03AQFFAYT0Zl8MrQ/profile-displayphoto-shrink_800_800/0/1689631460398?e=1700697600&v=beta&t=SdA8pDhc59TWA4Z8FwPXX8XNEC_XnUU6ztCB27wVCgw" width="60px"> |
 | André Carneiro Ribeiro | Desenvolvedor | <a href="https://www.linkedin.com/in/andr%C3%A9-carneiro-ribeiro-073b73259" target="blank" > <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> <a href="https://github.com/RibeiroAcr" target="blank"> <img src="https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white60px" target="blank" width="90px">|<img src= "https://media.licdn.com/dms/image/D4D35AQENqKR2VwTVlw/profile-framedphoto-shrink_800_800/0/1686400849101?e=1695844800&v=beta&t=Q4gr32nS-giH8d711MmE9uAQ20veWoortIooUInQ6R4" width="60px"> |
 | Cauê Santos da Silva | Desenvolvedor | <a href="https://br.linkedin.com/in/caue-santos-a01228288" target="blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> <a href="https://github.com/cauesantossilva" target="blank"> <img src="https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white60px" target="blank" width="90px"> |<img src= "https://media.licdn.com/dms/image/D4D03AQGCBF3w-dTFYg/profile-displayphoto-shrink_800_800/0/1695077480764?e=1700697600&v=beta&t=VPyPLnAqgMlrGLIZWlHxpzkSdfhmaoXlDlqC4SDdO7g" width="60px"> |
 | Denise da Silva Oliveira | Desenvolvedor | <a href="https://www.linkedin.com/in/denise-oliveira-32099a287" target="blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> <a href="https://github.com/Doliveira11" target="blank"> <img src="https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white60px" target="blank" width="90px"> |<img src= "https://media.licdn.com/dms/image/D4E03AQFZslt4fSwPWg/profile-displayphoto-shrink_800_800/0/1691794503206?e=1700697600&v=beta&t=RvPnjGG4zrpyMB2UmSHILkgA2VvpL8DSYEccNDAQz_c" width="60px"> |
@@ -68,19 +73,18 @@ Futuramente
 
 ## PRAZOS
 
-> - [X] Kick-off do Projeto - 04/09/2023
-> - [X] Entrega Sprint 00   - 25/09/2023
-> - [X] Entrega Sprint 01   - 16/10/2023
-> - [X] Entrega Sprint 02   - 06/11/2023
-> - [X] Entrega Sprint 03   - 27/11/2023
+> - [X] Kick-off do Projeto - 04/09/2023 
+> - [X] Entrega Sprint 00   - 25/09/2023  
+> - [X] Entrega Sprint 01   - 16/10/2023 
+> - [X] Entrega Sprint 02   - 06/11/2023 
+> - [X] Entrega Sprint 03   - 27/11/2023 
 > - [X] Feira de Soluções   - 12/12/2023
-
-## CRONOGRAMA DAS SPRINTS
 
 ### Cronograma
 Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsável por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
 
 #### [Cronograma das Sprints](https://alinecazevedosilva.atlassian.net/jira/software/projects/AA/boards/2/backlog)
+
 
 ## BACKLOG DAS SPRINTS
 
@@ -96,6 +100,13 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 - ### Sprint 03 - Operacionalização
 
 ![Sprint 03](https://github.com/ATLASlog/ATLASlog/assets/141978742/994a9422-d2f0-4a26-97eb-05444c96f9c4)
+
+
+## FUNCIONALIDADES E REGISTROS DAS SPRINTS
+
+Apresentação dos vídeos e documentos:<p align="center">
+ <img src="https://img.shields.io/badge/STATUS-EM_PROGRESSO-yellow"/>
+</p>
 
 
 ## REGRAS DE NEGÓCIO
