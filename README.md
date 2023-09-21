@@ -8,17 +8,17 @@ API - 1° Semestre - Logística 2023
 
 ## ÍNDICE
  * [PROJETO](#projeto)
-   - [Introdução](#introdução)
-   - [Objetivo](#objetivo)
+- [Introdução](#introdução)
+- [Objetivo](#objetivo)
  + [EMPRESA](#empresa)
-   - [Missão](#missão)
-   - [Visão](#visão)
-   - [Valores](#valores)
- + [EQUIPE](#equipe)
- + [BACKLOG DAS SPRINTS](#backlog-das-sprints)
-   - [Sprint 01](#sprint-01)
-   - [Sprint 02](#sprint-02)
-   - [Sprint 03](#sprint-03)
+- [Missão](#missão)
+- [Visão](#visão)
+- [Valores](#valores)
++ [EQUIPE](#equipe)
++ [BACKLOG DAS SPRINTS](#backlog-das-sprints)
+- [Sprint 01](#sprint-01)
+- [Sprint 02](#sprint-02)
+- [Sprint 03](#sprint-03)
  + [FERRAMENTAS ULTILIZADAS](#ferramentas-ultilizadas)
  + [PRAZOS](#prazos)
 
@@ -27,10 +27,10 @@ API - 1° Semestre - Logística 2023
 ## PROJETO
 
 - ### Introdução
-   Mapeamento do fluxo de dados do
-  
+     Mapeamento de dados coletados pelo site do governo, possibilitando a análise do fluxo de transporte de mercadorias importadas e exportadas a um raio de 200 km do aeropoerto de SJK, disponibilizando assim, atraves de uma interface grafica a melhor interpretação ao cliente.
+
 - ### Objetivo
-   Desenvolvimento de uma interface grafica que permite ao cliente uma análise visual interativa e agil do fluxo de transporte referente ao aeroporto SJK.
+     Desenvolvimento de uma interface gráfica, permitindo que o cliente possa ter uma análise visual, interativa e ágil do fluxo relacionado à importação e exportação referente ao aeroporto SJK. Tendo em base, os dados retirados do ComexStat (base de dados do governo), e por meio destes criar uma interface que auxilie e melhore a análise de possíveis novos investimentos, realocando  para o aeroporto SJK .
 
 ## EMPRESA
 
