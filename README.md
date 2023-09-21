@@ -8,20 +8,12 @@ API - 1° Semestre - Logística 2023
 
 ## ÍNDICE
  * [PROJETO](#projeto)
-- [Introdução](#introdução)
-- [Objetivo](#objetivo)
  + [EMPRESA](#empresa)
-- [Missão](#missão)
-- [Visão](#visão)
-- [Valores](#valores)
-+ [EQUIPE](#equipe)
-+ [BACKLOG DAS SPRINTS](#backlog-das-sprints)
-- [Sprint 01](#sprint-01)
-- [Sprint 02](#sprint-02)
-- [Sprint 03](#sprint-03)
+ + [EQUIPE](#equipe)
+ + [BACKLOG DAS SPRINTS](#backlog-das-sprints)
  + [FERRAMENTAS ULTILIZADAS](#ferramentas-ultilizadas)
  + [PRAZOS](#prazos)
-
++ [REGRAS DE NEGÓCIO](#regras-de-negócio)
 
 
 ## PROJETO
@@ -85,6 +77,15 @@ Valores
 > - [X] Entrega Sprint 03   - 27/11/2023
 > - [X] Feira de Soluções   - 12/12/2023
 
+## REGRAS DE NEGÓCIO
+
+- DESENVOLVIMENTO DE ESTRUTURA RELACIONAL DE TABELAS COM BASE NOS DADOS DISPONIBILIZADOS
+
+- CRIAÇÃO DE UM Dashboard intuitivo PARA VISUALIZAÇÃO DOS DADOS APRESENTADOS
+
+- Documentação no GitHub e gestão do projeto desenvolvida no JIRA SOFTWARE
+
+- Documentação do projeto de forma clara e de fácil acesso
 
 ## FERRAMENTAS ULTILIZADAS 
 
