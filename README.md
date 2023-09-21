@@ -35,9 +35,10 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 
 ## EMPRESA
 
-[LOGO]<p align="center">
- <img src="https://img.shields.io/badge/STATUS-EM_PROGRESSO-yellow"/>
+<p align="center">
+  <img src="https://github.com/viniihsousa/atlaslog-test/assets/141978742/d591adec-5659-4b06-88e0-8ca59cd2a323" alt="Sublime's custom image"/>
 </p>
+
  
 Missão
  
