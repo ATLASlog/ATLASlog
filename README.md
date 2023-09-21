@@ -1,19 +1,23 @@
 <p align = "center">
  
-# LEVANTAMENTO DE DADOS PARA A ANÁLISE DO FLUXO DE IMPORTAÇÃO E EXPORTAÇÃO DE PRODUTO
+# ANÁLISE DO FLUXO DE IMPORTAÇÃO E EXPORTAÇÃO DE PRODUTOS PARA O AEROPORTO DE SJK
 
 API - 1° Semestre - Logística 2023
+
+Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos.
 
 </p>
 
 ## ÍNDICE
- * [PROJETO](#projeto)
+ + [PROJETO](#projeto)
  + [EMPRESA](#empresa)
  + [EQUIPE](#equipe)
- + [BACKLOG DAS SPRINTS](#backlog-das-sprints)
- + [FERRAMENTAS ULTILIZADAS](#ferramentas-ultilizadas)
+ + [MICRO CERTIFICAÇÕES](#micro-certificações)
  + [PRAZOS](#prazos)
-+ [REGRAS DE NEGÓCIO](#regras-de-negócio)
+ + [BACKLOG DAS SPRINTS](#backlog-das-sprints)
+ + [REGRAS DE NEGÓCIO](#regras-de-negócio)
+ + [COMPETÊNCIAS DESENVOLVIDAS](#competências-desenvolvidas)
+ + [FERRAMENTAS UTILIZADAS](#ferramentas-utilizadas)
 
 
 ## PROJETO
@@ -26,7 +30,9 @@ API - 1° Semestre - Logística 2023
 
 ## EMPRESA
 
-[LOGO]
+[LOGO]<p align="center">
+ <img src="https://img.shields.io/badge/STATUS-EM_PROGRESSO-yellow"/>
+</p>
  
 Missão
  
@@ -53,20 +59,12 @@ Valores
 | Mariana Cassia Santos Rodrigues de Almeida | Desenvolvedor | <a href="https://www.linkedin.com/in/marianac%C3%A1ssia/" target="blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> <a href="https://github.com/Mcsalme" target="blank"> <img src="https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white60px" target="blank" width="90px"> |<img src= "https://avatars.githubusercontent.com/u/111469327?v=4" width="60px"> |
 | Vinicius Moreira de Sousa | Scrum Master | <a href="https://www.linkedin.com/in/vinicius-moreira-de-sousa-146359287" target="blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> <a href="https://github.com/viniihsousa" target="blank"> <img src="https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white60px" target="blank" width="90px">|<img src= "https://media.licdn.com/dms/image/D4E03AQHnFFtchFJbSg/profile-displayphoto-shrink_800_800/0/1691760851823?e=1700697600&v=beta&t=3h3eEh45iPttodecYqxVGCu_WWkKFac4qG-6OHGzjKk" width="60px"> |
 
-## BACKLOG DAS SPRINTS
+## MICRO CERTIFICAÇÕES
+Futuramente
 
-- ### Sprint 01
-
-![Sprint 01](https://github.com/ATLASlog/ATLASlog/assets/111469327/0646876e-bfc5-47c2-8b1f-7a6cf2a27317)
-
-- ### Sprint 02
-
-![Sprint 02](https://github.com/ATLASlog/ATLASlog/assets/111469327/ba14defd-5688-4df8-b0c8-e878d6a735b0)
-
-- ### Sprint 03
-
-![Sprint 03](https://github.com/ATLASlog/ATLASlog/assets/111469327/d7ff0af8-d9fa-419f-86d5-31030d2c3636)
-
+<p align="center">
+ <img src="https://img.shields.io/badge/STATUS-EM_PROGRESSO-yellow"/>
+</p>
 
 ## PRAZOS
 
@@ -77,22 +75,92 @@ Valores
 > - [X] Entrega Sprint 03   - 27/11/2023
 > - [X] Feira de Soluções   - 12/12/2023
 
+## CRONOGRAMA DAS SPRINTS
+
+### Cronograma
+Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsável por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
+
+#### [Cronograma das Sprints](https://alinecazevedosilva.atlassian.net/jira/software/projects/AA/boards/2/backlog)
+
+## BACKLOG DAS SPRINTS
+
+- ### Sprint 01 - Desenvolvimento do Projeto
+
+![Sprint 01](https://github.com/ATLASlog/ATLASlog/assets/141978742/1ea75b1e-47c6-45d9-99c8-6bbda172a2ba)
+
+- ### Sprint 02 - Implementação
+
+![Sprint 02](https://github.com/ATLASlog/ATLASlog/assets/141978742/61e606d1-7ff3-4f81-8240-a4260952a747)
+
+
+- ### Sprint 03 - Operacionalização
+
+![Sprint 03](https://github.com/ATLASlog/ATLASlog/assets/141978742/994a9422-d2f0-4a26-97eb-05444c96f9c4)
+
+
 ## REGRAS DE NEGÓCIO
 
-- DESENVOLVIMENTO DE ESTRUTURA RELACIONAL DE TABELAS COM BASE NOS DADOS DISPONIBILIZADOS
+- Desenvolvimento de estrutura relacional de tabelas com base nos dados disponibilizados.
 
-- CRIAÇÃO DE UM Dashboard intuitivo PARA VISUALIZAÇÃO DOS DADOS APRESENTADOS
+- Criação de um Dashboard intuitivo para visualização dos dados apresentados.
 
 - Documentação no GitHub e gestão do projeto desenvolvida no JIRA SOFTWARE
 
-- Documentação do projeto de forma clara e de fácil acesso
+- Documentação do projeto de forma clara e de fácil acesso.
 
-## FERRAMENTAS ULTILIZADAS 
+- Utilização da Metodologia ágil
 
+- Power BI / Jira / Canvas
+
+## COMPETÊNCIAS DESENVOLVIDAS 
+
+- ### Hard Skill (saber tecnológico)
+<details>
+<summary>Hard Skills desenvolvidas</summary>
+  
+| Tecnologia/Metodologia | Classificação |
+| ---------------------- | ------------- |
+| GitHub | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Gestão de Projetos | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Scrum Master | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Prodct Owner | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Markdown | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Git Projects | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+
+ </details>
+
+- ### Soft Skill (saber comportamental)
+<details>
+<summary>Soft Skills desenvolvidas</summary>
+
+| Habilidades | Classificação |
+| ---------------------- | ------------- |
+| Colaboração | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Proatividade| ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Pensamento Crítico | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Gerenciamento de Tempo | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Adaptabilidade | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Resiliência | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+
+</details>
+
+## FERRAMENTAS UTILIZADAS 
+
+- ### Produto
+<p align="center">
+ <img src="https://img.shields.io/badge/STATUS-EM_PROGRESSO-yellow"/>
+</p>
+
+- ### Tecnologias Específicas/Apoio
 <img src= "https://github.com/ATLASlog/ATLASlog/assets/111469327/a2b2af85-35be-45c2-8aa4-ac50af949e3f" width="40px"> 
 <img src= "https://github.com/ATLASlog/ATLASlog/assets/111469327/8e762ff1-717d-4e80-a7c8-dd6da9a90b6f" width="40px"> 
 <img src= "https://github.com/ATLASlog/ATLASlog/assets/111469327/e9dccc1f-a057-483d-b9c1-a8f1b570c3fb" width="40px"> 
 <img src= "https://github.com/ATLASlog/ATLASlog/assets/111469327/54ef2cf0-a0b0-4a94-b67d-3c5afb0ac89b" width="40px"> 
 
-
-
+- ### Mindset Digital
+- Backlog
+- [![MVP](https://img.youtube.com/vi/Ipg6Ox6qlC8/0.jpg)](https://www.youtube.com/embed/Ipg6Ox6qlC8)
+- MVP
+- [![MVP](https://img.youtube.com/vi/BYAABeMllcM/0.jpg)](https://www.youtube.com/embed/BYAABeMllcM)
+- Scrum para iniciantes
+- [![Scrum para iniciantes](https://img.youtube.com/vi/1DkmzynmRHk/0.jpg)](https://www.youtube.com/embed/1DkmzynmRHk)
