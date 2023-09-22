@@ -2,9 +2,8 @@
  
 # ANÁLISE DO FLUXO DE IMPORTAÇÃO E EXPORTAÇÃO DE PRODUTOS PARA O AEROPORTO DE SJK
 
-API - 1° Semestre - Logística 2023
 
-Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos.
+Projeto API - 1° Semestre - Logística 2023, baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos.
 
 </p>
 
@@ -172,7 +171,5 @@ Apresentação dos vídeos e documentos:<p align="center">
 - ### Mindset Digital
 - Backlog
 - [![MVP](https://img.youtube.com/vi/Ipg6Ox6qlC8/0.jpg)](https://www.youtube.com/embed/Ipg6Ox6qlC8)
-- MVP
-- [![MVP](https://img.youtube.com/vi/BYAABeMllcM/0.jpg)](https://www.youtube.com/embed/BYAABeMllcM)
 - Scrum para iniciantes
 - [![Scrum para iniciantes](https://img.youtube.com/vi/1DkmzynmRHk/0.jpg)](https://www.youtube.com/embed/1DkmzynmRHk)
