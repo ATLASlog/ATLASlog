@@ -11,7 +11,6 @@ Projeto API - 1° Semestre - Logística 2023, baseado na metodologia ágil SCRUM
  + [PROJETO](#projeto)
  + [EMPRESA](#empresa)
  + [EQUIPE](#equipe)
- + [MICRO CERTIFICAÇÕES](#micro-certificações)
  + [PRAZOS](#prazos)
  + [BACKLOG DAS SPRINTS](#backlog-das-sprints)
  + [FUNCIONALIDADES E REGISTROS DAS SPRINTS](#funcionalidades-e-registros-das-sprints)
@@ -35,7 +34,8 @@ Projeto API - 1° Semestre - Logística 2023, baseado na metodologia ágil SCRUM
 ## EMPRESA
 
 <p align="center">
-  <img src="https://github.com/viniihsousa/atlaslog-test/assets/141978742/d591adec-5659-4b06-88e0-8ca59cd2a323" alt="Sublime's custom image"/>
+  <img src="https://github.com/ATLASlog/ATLASlog/assets/141978742/ec3a605d-90ec-4dc0-99b7-116e7775af7d" alt="Sublime's custom image"/>
+
 </p>
 
  
@@ -64,12 +64,6 @@ Valores
 | Mariana Cassia Santos Rodrigues de Almeida | Desenvolvedor | <a href="https://www.linkedin.com/in/marianac%C3%A1ssia/" target="blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> <a href="https://github.com/Mcsalme" target="blank"> <img src="https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white60px" target="blank" width="90px"> |<img src= "https://avatars.githubusercontent.com/u/111469327?v=4" width="60px"> |
 | Vinicius Moreira de Sousa | Scrum Master | <a href="https://www.linkedin.com/in/vinicius-moreira-de-sousa-146359287" target="blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> <a href="https://github.com/viniihsousa" target="blank"> <img src="https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white60px" target="blank" width="90px">|<img src= "https://media.licdn.com/dms/image/D4E03AQHnFFtchFJbSg/profile-displayphoto-shrink_800_800/0/1691760851823?e=1700697600&v=beta&t=3h3eEh45iPttodecYqxVGCu_WWkKFac4qG-6OHGzjKk" width="60px"> |
 
-## MICRO CERTIFICAÇÕES
-Futuramente
-
-<p align="center">
- <img src="https://img.shields.io/badge/STATUS-EM_PROGRESSO-yellow"/>
-</p>
 
 ## PRAZOS
 
@@ -79,6 +73,7 @@ Futuramente
 > - [X] Entrega Sprint 02   - 06/11/2023 
 > - [X] Entrega Sprint 03   - 27/11/2023 
 > - [X] Feira de Soluções   - 12/12/2023
+
 
 ### Cronograma
 Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsável por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
