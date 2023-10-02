@@ -34,7 +34,7 @@ Projeto API - 1° Semestre - Logística 2023, baseado na metodologia ágil SCRUM
 ## EMPRESA
 
 <p align="center">
-  <img src="https://github.com/ATLASlog/ATLASlog/assets/141978742/ec3a605d-90ec-4dc0-99b7-116e7775af7d" alt="Sublime's custom image"/>
+  <img src="https://github.com/ATLASlog/ATLASlog/assets/141978742/b6963ca7-bbe6-47e7-ad1c-2abec96e9520" alt="Sublime's custom image"/>
 
 </p>
 
