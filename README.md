@@ -68,7 +68,7 @@ Valores
 ## PRAZOS
 
 > - [X] Kick-off do Projeto - 04/09/2023    | [Apresentação](https://github.com/ATLASlog/ATLASlog/files/12787368/Kick-off.API.1N.1.pptx) | 
-> - [X] Entrega Sprint 00   - 25/09/2023    | [Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+> - [X] Entrega Sprint 00   - 25/09/2023    | [Relatório](https://github.com/ATLASlog/ATLASlog/files/12810882/leis.de.morgan.pdf) | 
 > - [X] Entrega Sprint 01   - 16/10/2023    | [Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 > - [X] Entrega Sprint 02   - 06/11/2023    | [Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 > - [X] Entrega Sprint 03   - 27/11/2023    | [Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
