@@ -84,17 +84,21 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 ## BACKLOG DAS SPRINTS
 
 - ### Sprint 01 - Desenvolvimento do Projeto
+  
+![Sprint 01](https://github.com/ATLASlog/ATLASlog/assets/111469327/c56f53db-7e95-488a-a6a7-48f9ae65e6a9)
 
-![Sprint 01](https://github.com/ATLASlog/ATLASlog/assets/141978742/1ea75b1e-47c6-45d9-99c8-6bbda172a2ba)
 
 - ### Sprint 02 - Implementação
 
-![Sprint 02](https://github.com/ATLASlog/ATLASlog/assets/141978742/61e606d1-7ff3-4f81-8240-a4260952a747)
+
+![Sprint 02](https://github.com/ATLASlog/ATLASlog/assets/111469327/1b057508-0417-4933-9f1c-703ee580e378)
 
 
 - ### Sprint 03 - Operacionalização
 
-![Sprint 03](https://github.com/ATLASlog/ATLASlog/assets/141978742/994a9422-d2f0-4a26-97eb-05444c96f9c4)
+![Sprint 03](https://github.com/ATLASlog/ATLASlog/assets/111469327/02d6ad4e-8a0f-47f5-9aa5-9259d50c0b40)
+
+
 
 
 ## FUNCIONALIDADES E REGISTROS DAS SPRINTS
