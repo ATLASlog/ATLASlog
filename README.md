@@ -70,9 +70,9 @@ Valores
 > - [X] Kick-off do Projeto - 04/09/2023    | [Apresentação](https://github.com/ATLASlog/ATLASlog/files/12787368/Kick-off.API.1N.1.pptx) | 
 > - [X] Entrega Sprint 00   - 25/09/2023    | [Relatório](https://github.com/ATLASlog/ATLASlog/files/12810889/Relatorio.Sprint.0.1.docx) | 
 > - [X] Entrega Sprint 01   - 16/10/2023    | [Relatório](https://github.com/ATLASlog/ATLASlog/files/12922509/Sprint.1.pdf) | 
-> - [X] Entrega Sprint 02   - 06/11/2023    | [Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-> - [X] Entrega Sprint 03   - 27/11/2023    | [Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-> - [X] Feira de Soluções   - 12/12/2023    | [Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+> - [X] Entrega Sprint 02   - 06/11/2023    | [Relatório] | 
+> - [X] Entrega Sprint 03   - 27/11/2023    | [Relatório] | 
+> - [X] Feira de Soluções   - 12/12/2023    | [Relatório] | 
 
 
 ### Cronograma
@@ -86,6 +86,11 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 - ### Sprint 01 - Desenvolvimento do Projeto
   
 ![Sprint 01](https://github.com/ATLASlog/ATLASlog/assets/111469327/c56f53db-7e95-488a-a6a7-48f9ae65e6a9)
+
+- #### Burndown da Sprint 1
+
+![image](https://github.com/ATLASlog/ATLASlog/assets/141978742/7236fffc-41fe-4cf1-82b6-aa557c525c4f)
+
 
 
 - ### Sprint 02 - Implementação
