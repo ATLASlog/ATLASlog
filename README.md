@@ -180,8 +180,8 @@ Apresentação dos vídeos e documentos:<p align="center">
 - ### 5W2H
   <img width="400" alt="5w2h" src="https://github.com/ATLASlog/ATLASlog/assets/111469327/42fddc95-0961-46ab-a0c6-8db1b9917607">
 
-- Backlog
--  [![MVP](https://img.youtube.com/vi/Ipg6Ox6qlC8/0.jpg)](https://www.youtube.com/embed/Ipg6Ox6qlC8)
 
-- Scrum para iniciantes
-- [![Scrum para iniciantes](https://img.youtube.com/vi/1DkmzynmRHk/0.jpg)](https://www.youtube.com/embed/1DkmzynmRHk)
+- Metodologia Scrum:
+
+  [Relatório Scrum](https://github.com/ATLASlog/ATLASlog/files/13269011/Relatorio.Scrum.pdf)
+
