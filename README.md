@@ -96,7 +96,12 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 - ### Sprint 02 - Implementação
 
 
-![Sprint 02](https://github.com/ATLASlog/ATLASlog/assets/111469327/1b057508-0417-4933-9f1c-703ee580e378)
+![Sprint 02](https://github.com/ATLASlog/ATLASlog/assets/141978742/bcea69f6-5f32-41d6-b99a-88b872f9d545)
+
+- #### Burndown da Sprint 2
+
+![image](https://github.com/ATLASlog/ATLASlog/assets/141978742/d95608b9-c528-4e67-9fb8-101d3cb8d1fd)
+
 
 
 - ### Sprint 03 - Operacionalização
