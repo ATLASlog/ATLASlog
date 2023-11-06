@@ -140,7 +140,7 @@ Apresentação dos vídeos e documentos:<p align="center">
 | GitHub | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
 | Gestão de Projetos | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
 | Scrum Master | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| Prodct Owner | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Product Owner | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
 | Markdown | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
 | Git Projects | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
 
@@ -176,7 +176,7 @@ Apresentação dos vídeos e documentos:<p align="center">
 <img src= "https://github.com/ATLASlog/ATLASlog/assets/111469327/e9dccc1f-a057-483d-b9c1-a8f1b570c3fb" width="40px"> 
 <img src= "https://github.com/ATLASlog/ATLASlog/assets/111469327/54ef2cf0-a0b0-4a94-b67d-3c5afb0ac89b" width="40px"> 
 
-- ### Mindset Digital
+
 - ### 5W2H
   <img width="400" alt="5w2h" src="https://github.com/ATLASlog/ATLASlog/assets/111469327/42fddc95-0961-46ab-a0c6-8db1b9917607">
 
