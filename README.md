@@ -109,7 +109,9 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 ## FUNCIONALIDADES E REGISTROS DAS SPRINTS
 
 Apresentação dos vídeos e documentos:<p align="center">
- <img src="https://img.shields.io/badge/STATUS-EM_PROGRESSO-yellow"/>
+
+![ezgif com-video-to-gif (1)](https://github.com/ATLASlog/ATLASlog/assets/141978742/9a538f85-7dbe-4a13-a056-d1ea69cf47d1)
+
 </p>
 
 
@@ -163,7 +165,9 @@ Apresentação dos vídeos e documentos:<p align="center">
 
 - ### Produto
 <p align="center">
- <img src="https://img.shields.io/badge/STATUS-EM_PROGRESSO-yellow"/>
+ 
+ ![ezgif com-video-to-gif (1)](https://github.com/ATLASlog/ATLASlog/assets/141978742/5482fcc6-a826-4418-8857-f8a5c5162a96)
+
 </p>
 
 - ### Tecnologias Específicas/Apoio
