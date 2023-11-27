@@ -113,9 +113,9 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 
 ## FUNCIONALIDADES E REGISTROS DAS SPRINTS
 
-Apresentação dos vídeos e documentos:<p align="center">
+Apresentação do MVP:<p align="center">
 
-![ezgif com-video-to-gif (1)](https://github.com/ATLASlog/ATLASlog/assets/141978742/9a538f85-7dbe-4a13-a056-d1ea69cf47d1)
+![ezgif com-video-to-gif (1)](https://github.com/ATLASlog/ATLASlog/assets/141978742/9a538f85-7dbe-4a13-a056-d1ea69cf47d1/)
 
 </p>
 
@@ -168,10 +168,10 @@ Apresentação dos vídeos e documentos:<p align="center">
 
 ## FERRAMENTAS UTILIZADAS 
 
-- ### Produto
+- ### Produto Final
 <p align="center">
  
- ![ezgif com-video-to-gif (1)](https://github.com/ATLASlog/ATLASlog/assets/141978742/5482fcc6-a826-4418-8857-f8a5c5162a96)
+![DASH FINAL3 - Power BI - Opera 2023-11-27 01-39-13](https://github.com/ATLASlog/ATLASlog/assets/141978742/f54d668f-d5b0-4c09-a08b-b6adef05cef4)
 
 </p>
 
