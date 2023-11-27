@@ -71,7 +71,7 @@ Valores
 > - [X] Entrega Sprint 00   - 25/09/2023    | [Relatório](https://github.com/ATLASlog/ATLASlog/files/12810889/Relatorio.Sprint.0.1.docx) | 
 > - [X] Entrega Sprint 01   - 16/10/2023    | [Relatório](https://github.com/ATLASlog/ATLASlog/files/12922509/Sprint.1.pdf) | 
 > - [X] Entrega Sprint 02   - 06/11/2023    | [Relatório](https://github.com/ATLASlog/ATLASlog/files/13269575/Sprint.2.pdf) |
-> - [X] Entrega Sprint 03   - 27/11/2023    | [Relatório] | 
+> - [X] Entrega Sprint 03   - 27/11/2023    | [Relatório](https://github.com/ATLASlog/ATLASlog/files/13481445/Sprint.3.pdf) | 
 > - [X] Feira de Soluções   - 12/12/2023    | [Relatório] | 
 
 
