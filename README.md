@@ -106,7 +106,11 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 
 - ### Sprint 03 - Operacionalização
 
-![Sprint 03](https://github.com/ATLASlog/ATLASlog/assets/111469327/02d6ad4e-8a0f-47f5-9aa5-9259d50c0b40)
+![image](https://github.com/ATLASlog/ATLASlog/assets/141978742/9e270ee9-ef83-4b58-bfdd-24ba00aa588f)
+
+- #### Burndown da Sprint 3
+
+![image](https://github.com/ATLASlog/ATLASlog/assets/141978742/8cef2e81-1943-422e-9700-7887b13f565b)
 
 
 
