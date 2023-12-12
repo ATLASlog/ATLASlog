@@ -171,20 +171,14 @@ Apresentação do MVP:<p align="center">
 
 ## FERRAMENTAS UTILIZADAS 
 
-- ### Produto Final
+- ### Power BI - Produto Final
 <p align="center">
  
 ![DASH FINAL3 - Power BI - Opera 2023-11-27 01-39-13](https://github.com/ATLASlog/ATLASlog/assets/141978742/f54d668f-d5b0-4c09-a08b-b6adef05cef4)
 
 </p>
 
-- ### Tecnologias Específicas/Apoio
-<img src= "https://github.com/ATLASlog/ATLASlog/assets/111469327/a2b2af85-35be-45c2-8aa4-ac50af949e3f" width="40px"> 
-<img src= "https://github.com/ATLASlog/ATLASlog/assets/111469327/8e762ff1-717d-4e80-a7c8-dd6da9a90b6f" width="40px"> 
-<img src= "https://github.com/ATLASlog/ATLASlog/assets/111469327/e9dccc1f-a057-483d-b9c1-a8f1b570c3fb" width="40px"> 
-<img src= "https://github.com/ATLASlog/ATLASlog/assets/111469327/54ef2cf0-a0b0-4a94-b67d-3c5afb0ac89b" width="40px"> 
-
-- ### CURVA ABC
+- ### Curva ABC
 
   ![OIP](https://github.com/ATLASlog/ATLASlog/assets/141978742/436ebe9f-ead4-4a5e-9491-33d3c60021e3)
 
@@ -193,7 +187,12 @@ Apresentação do MVP:<p align="center">
   <img width="400" alt="5w2h" src="https://github.com/ATLASlog/ATLASlog/assets/111469327/42fddc95-0961-46ab-a0c6-8db1b9917607">
 
 
-- Metodologia Scrum:
+- ### Metodologia Scrum:[Relatório Scrum](https://github.com/ATLASlog/ATLASlog/files/13269011/Relatorio.Scrum.pdf)
 
-  [Relatório Scrum](https://github.com/ATLASlog/ATLASlog/files/13269011/Relatorio.Scrum.pdf)
+
+- ### Tecnologias Específicas/Apoio
+<img src= "https://github.com/ATLASlog/ATLASlog/assets/111469327/a2b2af85-35be-45c2-8aa4-ac50af949e3f" width="40px"> 
+<img src= "https://github.com/ATLASlog/ATLASlog/assets/111469327/8e762ff1-717d-4e80-a7c8-dd6da9a90b6f" width="40px"> 
+<img src= "https://github.com/ATLASlog/ATLASlog/assets/111469327/e9dccc1f-a057-483d-b9c1-a8f1b570c3fb" width="40px"> 
+<img src= "https://github.com/ATLASlog/ATLASlog/assets/111469327/54ef2cf0-a0b0-4a94-b67d-3c5afb0ac89b" width="40px"> 
 
