@@ -87,26 +87,25 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
   
 ![Sprint 01](https://github.com/ATLASlog/ATLASlog/assets/111469327/c56f53db-7e95-488a-a6a7-48f9ae65e6a9)
 
-- #### Burndown da Sprint 1
-
-![image](https://github.com/ATLASlog/ATLASlog/assets/141978742/7236fffc-41fe-4cf1-82b6-aa557c525c4f)
-
-
-
 - ### Sprint 02 - Implementação
 
-
 ![Sprint 02](https://github.com/ATLASlog/ATLASlog/assets/141978742/bcea69f6-5f32-41d6-b99a-88b872f9d545)
-
-- #### Burndown da Sprint 2
-
-![image](https://github.com/ATLASlog/ATLASlog/assets/141978742/d95608b9-c528-4e67-9fb8-101d3cb8d1fd)
-
-
 
 - ### Sprint 03 - Operacionalização
 
 ![image](https://github.com/ATLASlog/ATLASlog/assets/141978742/9e270ee9-ef83-4b58-bfdd-24ba00aa588f)
+
+
+## BURNDOWN DAS SPRINTS
+
+
+- #### Burndown da Sprint 1
+
+![image](https://github.com/ATLASlog/ATLASlog/assets/141978742/7236fffc-41fe-4cf1-82b6-aa557c525c4f)
+
+- #### Burndown da Sprint 2
+
+![image](https://github.com/ATLASlog/ATLASlog/assets/141978742/d95608b9-c528-4e67-9fb8-101d3cb8d1fd)
 
 - #### Burndown da Sprint 3
 
